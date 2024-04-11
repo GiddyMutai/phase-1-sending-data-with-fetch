@@ -1,30 +1,670 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
+    },
+    {
+      "id": "5036",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "1f24",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "60c9",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "4fa3",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "a97b",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "6bed",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "5109",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "93b0",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "9029",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "a80b",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "98bc",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "7a75",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "330d",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "cfbd",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "eb1a",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "d2a6",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "ff3a",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "23af",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "8eca",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "9b30",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "a16b",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "1dd7",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "abd4",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "032d",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "1339",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "96f3",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "67bf",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "0835",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "f07f",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "0c4d",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "f642",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "5fa7",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "1c97",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "bd9b",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "615a",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "f433",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "c78e",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "596b",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "8c3c",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "5250",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "3099",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "20ea",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "f826",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "7024",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "1f62",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "a850",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "cfec",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "d8af",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "01b9",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "7633",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "e8c2",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "d32a",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "28f9",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "8dfe",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "c35e",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "f0af",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "f057",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "8d0a",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "751e",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "b8bf",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "ab7d",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "5610",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "fc53",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "43a9",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "0bde",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "86e5",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "b4d1",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "0360",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "1585",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "4afe",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "ed80",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "a92b",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "5c12",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "c8d3",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "26a7",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "f981",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "3e8d",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "fdb3",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "c38e",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "e211",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "6f30",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "cd50",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "ce67",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "19bd",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "c762",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "b69f",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "d5c2",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "7117",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "8b88",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "4b92",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "ad5d",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "8823",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "45ac",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "c23a",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "6c2a",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "ae58",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "c997",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "49bd",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "8a1c",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "ca98",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "b9b9",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "458d",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "13f6",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "da87",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "1f7a",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "3a04",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "5d96",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "3c33",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "976c",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "f718",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "689b",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "5426",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "5d68",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "29e7",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "56b3",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "cb1b",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "3d08",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "6cae",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "40df",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "3930",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "1c8b",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "a2f0",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "eae1",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "53bc",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "824d",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "f2f5",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    },
+    {
+      "id": "d0d9",
+      "name": "Gideon Mutai",
+      "email": "giddymutai13@gmail.com"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
